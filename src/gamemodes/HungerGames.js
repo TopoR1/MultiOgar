@@ -127,7 +127,7 @@ HungerGames.prototype.resetMap = function(gameServer) {
     this.spawnVirus(gameServer, {x:  2430, y: 810});
     this.spawnVirus(gameServer, {x:  2430, y:-810});
     this.spawnVirus(gameServer, {x: -2430, y:-810});
-    this.spawnVirus(gameServer, {x: -2430, y: 810});=
+    this.spawnVirus(gameServer, {x: -2430, y: 810});
 };
 
 HungerGames.prototype.onPlayerSpawn = function(gameServer, client) {
